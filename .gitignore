@@ -2,3 +2,6 @@ bin/
 lib/
 
 pyvenv.cfg
+
+robotframework-lsp/
+jsonrpc-ws-proxy/
